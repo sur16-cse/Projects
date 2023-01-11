@@ -5,4 +5,4 @@ Deployed Link: https://reducer-with-context-ecommerce.netlify.app/
 
 ### Robohash : search, filter with functional components
 
-### Robohash : Robohash updated with typescript
+### Robohash-typescript : Robohash updated with typescript
