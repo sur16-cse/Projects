@@ -1,6 +1,6 @@
 import {createContext,useReducer } from 'react'
 import { createAction } from '../utils/reducer/reducer.utils'
-
+import React from 'react';
 const addCartItem=(cartItems,productToAdd)=>{
     //find if cartItems contains productToAdd
     const existingCartItem=cartItems.find((cartItem)=>cartItem.id===productToAdd.id)

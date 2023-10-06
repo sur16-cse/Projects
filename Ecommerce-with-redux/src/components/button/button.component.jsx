@@ -1,9 +1,11 @@
+import React from 'react'
 import './button.styles.scss'
 /*
 default 
 inverted
 google-signin
 */
+
 
 const BUTTON_TYPE_CLASSES={
     google:'google-sign-in',

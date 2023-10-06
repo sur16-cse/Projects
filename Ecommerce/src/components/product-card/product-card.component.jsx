@@ -1,3 +1,4 @@
+import React from 'react'
 import {useContext} from 'react'
 import { CartContext } from '../../contexts/cart.context'
 import './product-card.styles.scss'

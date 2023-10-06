@@ -1,4 +1,5 @@
 import './directory-item.styles.scss'
+import React from 'react'
 import {useNavigate} from 'react-router-dom'
 import { useTransition } from 'react';
 const DirectoryItem=({category})=>{

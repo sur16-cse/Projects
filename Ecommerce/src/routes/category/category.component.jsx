@@ -1,3 +1,4 @@
+import React from 'react'
 import './category.styles.scss'
 import {useParams} from 'react-router-dom'
 import { useContext,useState,useEffect } from 'react';
